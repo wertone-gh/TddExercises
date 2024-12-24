@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FifoTdd", "FifoTdd\FifoTdd.csproj", "{DCC2F7C6-057A-4A6F-A2F5-66E0659FBF97}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TddExercises.Tests.Unit", "TddExercises.Tests.Unit\TddExercises.Tests.Unit.csproj", "{9B5E4138-DD4B-4F2D-8E6F-AA06CC03FF71}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{DCC2F7C6-057A-4A6F-A2F5-66E0659FBF97}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DCC2F7C6-057A-4A6F-A2F5-66E0659FBF97}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DCC2F7C6-057A-4A6F-A2F5-66E0659FBF97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B5E4138-DD4B-4F2D-8E6F-AA06CC03FF71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B5E4138-DD4B-4F2D-8E6F-AA06CC03FF71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B5E4138-DD4B-4F2D-8E6F-AA06CC03FF71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B5E4138-DD4B-4F2D-8E6F-AA06CC03FF71}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
